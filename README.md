@@ -6,8 +6,8 @@
 
 | 팀 소개                             | 모집 공고                                                             |
 | ------------- | --------------------------------------------------------------------- |
-| [SecuDev 팀](./secudev/README.md)     | [웹 개발자](./secudev/web.md |
-|                                       | [보안 분석가](./secudev/analysis.md |
+| [SecuDev 팀](./secudev/README.md)     | [웹 개발자](./secudev/web.md) |
+|                                       | [보안 분석가](./secudev/analysis.md) |
 | [SecDevOps 팀](./secdevops/README.md) | [데브옵스 엔지니어](./secdevops/devops.md) |
 | [SpecOps 팀](./specops/README.md) | [시니어 슈퍼 프로그래머](./specops/super.md) |
 | [소프트웨어 테스트 팀](./swtest/README.md) | [테스트 엔지니어](./swtest/test-engineer.md) |
