@@ -18,13 +18,13 @@
 
 | 팀 소개                             | 모집 공고                                                             |
 | ------------- | --------------------------------------------------------------------- |
-| [코어 팀](./core/README.md)     | [언리얼 클라이언트 프로그래머](./core/client.md |
-| [엔진 팀](./engine/README.md)     | [서버 프로그래머](./engine/server.md |
-|                                | [클라이언트 프로그래머](./engine/client.md |
-| [컨텐츠 팀](./contents/README.md)     | [서버 프로그래머](./contents/server.md |
-|                                | [클라이언트 프로그래머](./contents/client.md |
-| [서버 팀](./contents/README.md)     | [게임 서버 프로그래머(cpp)](./server/cpp.md |
-|                                  | [게임 서버 프로그래머(golang)](./server/golang.md |
+| [코어 팀](./core/README.md)     | [언리얼 클라이언트 프로그래머](./core/client.md) |
+| [엔진 팀](./engine/README.md)     | [서버 프로그래머](./engine/server.md) |
+|                                | [클라이언트 프로그래머](./engine/client.md) |
+| [컨텐츠 팀](./contents/README.md)     | [서버 프로그래머](./contents/server.md) |
+|                                | [클라이언트 프로그래머](./contents/client.md) |
+| [서버 팀](./contents/README.md)     | [게임 서버 프로그래머(cpp)](./server/cpp.md) |
+|                                  | [게임 서버 프로그래머(golang)](./server/golang.md) |
 
 
 ## 채용절차
