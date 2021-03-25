@@ -4,48 +4,17 @@
 
 ### CTO 실
 
-| 팀 소개                             | 모집 공고                                                             |
-| ------------- | --------------------------------------------------------------------- |
-| [SecuDev 팀](./secudev/README.md)     | [웹 개발자](./secudev/web.md) |
-|                                       | [보안 분석가](./secudev/analysis.md) |
-| [SecDevOps 팀](./secdevops/README.md) | [데브옵스 엔지니어](./secdevops/devops.md) |
-| [SpecOps 팀](./specops/README.md) | [시니어 슈퍼 프로그래머](./specops/super.md) |
-|                                   | [쥬니어 프로그래머](./specops/junior.md) |
-| [소프트웨어 테스트 팀](./swtest/README.md) | [테스트 엔지니어](./swtest/test-engineer.md) |
-| [운영툴 개발 팀](./opstool/README.md) | [웹 개발자](./opstool/web.md) |
 
 
 ### NB 라이브 개발실
 
-| 팀 소개                             | 모집 공고                                                             |
-| ------------- | --------------------------------------------------------------------- |
-| [코어 팀](./core/README.md)     | [언리얼 클라이언트 프로그래머](./core/client.md) |
-| [엔진 팀](./engine/README.md)     | [서버 프로그래머](./engine/server.md) |
-|                                | [클라이언트 프로그래머](./engine/client.md) |
-| [컨텐츠 팀](./contents/README.md)     | [서버 프로그래머](./contents/server.md) |
-|                                | [클라이언트 프로그래머](./contents/client.md) |
-| [서버 팀](./contents/README.md)     | [게임 서버 프로그래머(cpp)](./server/cpp.md) |
-|                                  | [게임 서버 프로그래머(golang)](./server/golang.md) |
-
-
-## 채용절차
-
-- 서류 심사 > 실무 면접 > 리드 면접 > 최종 면접
-
-### 입사 지원
-
-
-# 소개
-
-## CTO 실
-
-## 기술 스택
-
-## 협업 툴
-
-## 개발자 공통 요건
-
-### 자격요건
-
-### 우대사항
+| 분야          | 업무                                                    | 구체적인 업무 예시 | 기술 키워드 |
+| ------------- | -------------------------------------------------------|-------------------|---------------------|
+| 서버 프로그래밍 | 온라인 게임 서버의 안정성,가용능력 강화, 컨텐츠 프로그래밍 | 패킷 플로우 최적화, DB 사용 최적화, 패킷 포맷 표준화, golang 이용 API 서버 개발, 게임 컨텐츠 시스템 설계 , 보안 로직 프로그래밍 | mySQL , Redis, Cassandra/ScyllaDB, RabbitMQ, Elastic Search , Modern C++ , golang, TDD , linux , rust |
+| 클라이언트 엔진 프로그래밍 | 언리얼3,4 엔진 기반의 프로젝트 생산성 강화 및 최적화 | 엔진 업그레이드, 언리얼3의 렌더링 백엔드 업그레이드, 써드 파티 라이브러리 업그레이드, 동기화 로직 최적화, 프로파일링, 버그 헌팅 , 리플레이 시스템 개발, AI 캐릭터 개발, Technical Artist 지원 | DX9,DX11,DX12,Vulkan, Unreal3, Unreal4, Vtune , Telemetry , Modern C++ , Refactoring, 액션감 구현, 액션 동기화, 대미지 동기화, Scaleform , rust |
+| TQA | 오토봇 개선을 통한 테스트 커버리지 향상 | 오토봇의 테스트 케이스 추가, UI Automation Tool 시나리오 테스트 추가, 서버 자동화 테스트 툴에서의 테스트 케이스 추가 | 게임 로직 분석, C++,lua/chaiscript 사용 오토 스크립트 로직 작성, UI Automation Tool(Air Test)를 사용한 오토봇 개발, 서버 스트레스 테스터 구현 ( C++ , chaiscript ) |
+| 운영툴 개발 | 게임운영에 관련된 프론트/백엔드 서비스 개발 | 운영툴 기능 추가 | java, srping, mybatis, jquery, mySQL , redis, cassandra, scylladb, vue.js |
+| 빌드 자동화 | 빌드 과정에서의 오류 탐지, 오류 제거, 자동화, CI/CD | 데일리 빌드 시스템 구축 및 안정화, Jenkin 기반 CI/CD 구축, 빌드상의 오류와 성공을 탐지하는 방법 강구 , 오픈소스 솔루션 테스트 및 평가 | CI/CD, devops , jenkins, c++ , unreal3 , unreal4 , build, make , shell scripting , build optimation |
+| 툴 프로그래밍 | 개발 프로세스 상에서 생산성 향상을 위한 문제 해결을 위한 툴 개발 | 리소스 머지 툴, 언리얼 에디터 기능 추가, 데이터 스크립트 관리 툴 기능 추가 | unreal3, unreal4, c# , ui, editor , python, data-driven |
+| 게임 보안 | 화이트박스/블랙박스 모의 해킹 , 게임 보안 방어 코드 구현 | | ida pro, reverse engineering , c++ , obfustcation, llvm , kernel programming |
 
