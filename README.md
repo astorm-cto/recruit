@@ -16,3 +16,7 @@
 | 툴 프로그래밍 | 개발 프로세스 상에서 생산성 향상을 위한 문제 해결을 위한 툴 개발 | 리소스 머지 툴, 언리얼 에디터 기능 추가, 데이터 스크립트 관리 툴 기능 추가 | unreal3, unreal4, c# , ui, editor , python, data-driven |
 | 게임 보안 | 화이트박스/블랙박스 모의 해킹 , 게임 보안 방어 코드 구현 | | ida pro, reverse engineering , c++ , obfustcation, llvm , kernel programming |
 
+
+## 연락
+
+* job@astorm.co.kr 
