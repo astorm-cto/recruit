@@ -4,7 +4,7 @@
 
 
 
-### NB 라이브 개발실
+### NB 라이브 개발실 + CTO 실 NB 지원 관련 부서
 
 | 분야          | 업무                                                    | 구체적인 업무 예시 | 기술 키워드 |
 | ------------- | -------------------------------------------------------|-------------------|---------------------|
@@ -15,6 +15,7 @@
 | 빌드 자동화 | 빌드 과정에서의 오류 탐지, 오류 제거, 자동화, CI/CD | 데일리 빌드 시스템 구축 및 안정화, Jenkin 기반 CI/CD 구축, 빌드상의 오류와 성공을 탐지하는 방법 강구 , 오픈소스 솔루션 테스트 및 평가 | CI/CD, devops , jenkins, c++ , unreal3 , unreal4 , build, make , shell scripting , build optimation |
 | 툴 프로그래밍 | 개발 프로세스 상에서 생산성 향상을 위한 문제 해결을 위한 툴 개발 | 리소스 머지 툴, 언리얼 에디터 기능 추가, 데이터 스크립트 관리 툴 기능 추가 | unreal3, unreal4, c# , ui, editor , python, data-driven |
 | 게임 보안 | 화이트박스/블랙박스 모의 해킹 , 게임 보안 방어 코드 구현 | | ida pro, reverse engineering , c++ , obfustcation, llvm , kernel programming |
+| S/W Reliability Lab | 게임 서버/클라이언트 코드의 테스크 케이스 구현, 테스트 지표 수집을 위한 S/W 공학적 접근 , 자동화 테스트  | | Code Coverage Test, Test Case, TDD, C++ , chaiscript, Automated Tests, CI/CD |
 
 
 ## 연락
